@@ -29,24 +29,22 @@
 
 <br>
 
-## <div align="center">🚀 About Me</div>
+## 🚀 About Me
 
-<img align="right" alt="Coding Animation" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+Hi, I'm **Nihal**, a passionate and results-driven **Full-Stack MERN Developer** on a mission to build scalable, impactful web applications.
 
-My tech journey started with Tally 📊, which ignited my curiosity in cybersecurity 🔒 and eventually led me to discover my true passion — MERN Stack development 💻. I've been deeply focused on mastering full-stack web development and building advanced-level skills 🚀.
+My tech journey started with **Tally 📊**, which sparked my curiosity in **cybersecurity 🔐**, and eventually led me to discover my true passion — **MERN Stack development 💻**. Since then, I’ve been committed to mastering full-stack technologies and building real-world solutions that matter.
 
-My vision is to leverage technology to build innovative solutions that solve real-world problems. I aim to establish a tech startup that creates an IT freelance hub 🌐 connecting talented developers with promising projects worldwide.
+I’m currently focused on:
+- 🛠 Building interactive, production-ready full-stack web apps  
+- ⚙️ Learning Advanced React Architecture, System Design, and AWS  
+- 🌍 Preparing to launch a global **freelance tech hub** connecting developers with meaningful projects  
 
-I love exploring new technologies, contributing to open source, and building projects that make a difference. Let's connect and create something extraordinary together! 🤝
+I love experimenting with new tools, contributing to open-source, and turning ideas into polished digital experiences. Let’s connect and create something extraordinary together! 🤝
 
-- 🔭 Currently building: **Interactive Full-Stack Web Applications**
-- 🌱 Learning: **Advanced React Architecture, System Design & AWS**
-- 👯 Open to collaborate on: **Innovative Tech Projects with Social Impact**
-- 🧠 Ask me about: **MERN Stack, Web Development, Career Transitions**
-- 📫 Reach me at: **keedathnihal@gmail.com**
-- ⚡ Fun fact: **I code better with lofi beats in the background!**
+> 📬 Reach me at: **keedathnihal@gmail.com**  
+> 🎧 Fun fact: I code better with lo-fi beats playing in the background!
 
-<br>
 
 ## <div align="center">💻 Tech Universe</div>
 
