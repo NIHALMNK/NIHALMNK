@@ -29,21 +29,45 @@
 
 <br>
 
-## 🚀 About Me
+<div align="center">🚀 NIHAL KEEDATH</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Cybersecurity+Enthusiast;Future+Tech+Entrepreneur;Creative+Problem+Solver" alt="Typing SVG" />
+</div>
+<div align="center">
+  <a href="mailto:keedathnihal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/nihal-keedath/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://nihal-keedath-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://twitter.com/nihal_keedath">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
+<br>
+<div align="center">👨‍💻 About Me</div>
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+🚀 Hello World! I'm Nihal
+I'm a passionate Full-Stack MERN Developer crafting elegant solutions to complex problems. My journey in technology began with financial software (Tally 📊), which sparked my curiosity about digital security, leading me to explore cybersecurity 🔐. This exploration ultimately revealed my true calling — building powerful, user-centric web applications with the MERN stack.
+With every project, I strive to blend technical excellence with creative problem-solving to deliver applications that not only work flawlessly but also provide exceptional user experiences.
+🌟 My Vision
+I'm working toward creating a global freelance tech hub that bridges the gap between talented developers and meaningful projects, empowering both sides to achieve their full potential in the digital landscape.
+💼 Current Focus:
 
-Hi, I'm **Nihal**, a passionate and results-driven **Full-Stack MERN Developer** on a mission to build scalable, impactful web applications.
+🛠️ Architecting scalable, production-ready web applications with performance and security in mind
+📚 Mastering Advanced React Patterns, Microservice Architecture & AWS Cloud Infrastructure
+🤝 Building connections with fellow developers and contributing to the tech community
 
-My tech journey started with **Tally 📊**, which sparked my curiosity in **cybersecurity 🔐**, and eventually led me to discover my true passion — **MERN Stack development 💻**. Since then, I’ve been committed to mastering full-stack technologies and building real-world solutions that matter.
+💬 Let's Connect:
 
-I’m currently focused on:
-- 🛠 Building interactive, production-ready full-stack web apps  
-- ⚙️ Learning Advanced React Architecture, System Design, and AWS  
-- 🌍 Preparing to launch a global **freelance tech hub** connecting developers with meaningful projects  
+📧 keedathnihal@gmail.com
+💻 Open for collaboration on innovative tech projects with social impact
+🎧 Fun fact: My productivity soars with lo-fi beats in the background!
 
-I love experimenting with new tools, contributing to open-source, and turning ideas into polished digital experiences. Let’s connect and create something extraordinary together! 🤝
-
-> 📬 Reach me at: **keedathnihal@gmail.com**  
-> 🎧 Fun fact: I code better with lo-fi beats playing in the background!
+<br clear="right">
 
 
 ## <div align="center">💻 Tech Universe</div>
