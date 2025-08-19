@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Mohammed Nihal K
+# Mohammed Nihal K
 
 <div align="center">
   
@@ -14,25 +14,25 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 **Passionate Full Stack Developer** specializing in **MERN Stack** with a mission to transform innovative ideas into powerful, scalable web applications. I combine technical expertise with creative problem-solving to deliver solutions that make a real impact.
 
 ### What Drives Me:
-- 💡 **Innovation**: Turning complex business requirements into elegant, user-friendly solutions
-- 🎯 **Quality**: Writing clean, maintainable code that scales with business growth
-- 🌟 **Impact**: Building applications that solve real-world problems and enhance user experiences
-- 🎤 **Communication**: Sharing knowledge through public speaking and mentoring fellow developers
+- **Innovation**: Turning complex business requirements into elegant, user-friendly solutions
+- **Quality**: Writing clean, maintainable code that scales with business growth
+- **Impact**: Building applications that solve real-world problems and enhance user experiences
+- **Communication**: Sharing knowledge through public speaking and mentoring fellow developers
 
 ---
 
-## 💼 Professional Highlights
+## Professional Highlights
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎯 **Core Expertise**
+### **Core Expertise**
 - **3+ Years** of MERN Stack Development
 - **Full Stack Architecture** Design & Implementation
 - **Responsive Web Development** with Modern UI/UX
@@ -43,7 +43,7 @@
 </td>
 <td width="50%">
 
-### 🌟 **Soft Skills**
+### **Soft Skills**
 - **Public Speaking** & Technical Presentations
 - **Team Leadership** & Project Management
 - **Client Communication** & Requirement Analysis
@@ -57,7 +57,7 @@
 
 ---
 
-## 🛠️ Technology Arsenal
+## Technology Stack
 
 ### **Frontend Technologies**
 <p align="left">
@@ -92,7 +92,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-### **Design & Tools**
+### **Design & Development Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
@@ -102,43 +102,43 @@
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
-### 🎯 [TACTICS - Strategic Web Application](https://github.com/NIHALMNK/TACTICS)
+### **TACTICS - Strategic Web Application**
 **A comprehensive MERN stack application demonstrating enterprise-level development practices**
 
 <details>
-<summary><b>🔍 Project Deep Dive</b></summary>
+<summary><b>Technical Implementation Details</b></summary>
 
-**🎯 Problem Solved**: Created a full-featured web application addressing real-world business challenges with modern technology stack.
+**Problem Solved**: Created a full-featured web application addressing real-world business challenges with modern technology stack.
 
-**🛠️ Technical Implementation**:
+**Technical Architecture**:
 - **Frontend**: React.js with responsive design, Redux for state management
 - **Backend**: Node.js & Express.js RESTful API architecture
 - **Database**: MongoDB with optimized queries and data modeling
 - **Security**: JWT authentication, input validation, and secure headers
 - **Performance**: Code splitting, lazy loading, and optimized bundle size
 
-**📈 Key Achievements**:
-- ✅ **100% Responsive** design across all devices
-- ✅ **Sub-2 second** loading times through optimization
-- ✅ **Secure Authentication** system with role-based access
-- ✅ **Scalable Architecture** supporting future feature additions
-- ✅ **Clean Code** following industry best practices
+**Key Achievements**:
+- **100% Responsive** design across all devices
+- **Sub-2 second** loading times through optimization
+- **Secure Authentication** system with role-based access
+- **Scalable Architecture** supporting future feature additions
+- **Clean Code** following industry best practices
 
-**🔗 Links**: [Live Demo](https://your-demo-link.com) | [Source Code](https://github.com/NIHALMNK/TACTICS)
+**Repository**: [View Source Code](https://github.com/NIHALMNK/TACTICS)
 
 </details>
 
-### 🌟 More Impressive Projects Coming Soon...
-*Currently working on exciting projects including:*
+### **Upcoming Projects**
+*Currently developing:*
 - **E-Commerce Platform** with advanced filtering and payment integration
 - **Real-Time Chat Application** with Socket.io and multimedia support
 - **Task Management System** with team collaboration features
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -161,26 +161,26 @@
 
 ---
 
-## 🏅 Achievements & Certifications
+## Professional Achievements
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎓 **Technical Achievements**
-- 🥇 **Full Stack Development** Certification
-- 🏆 **AWS Cloud Practitioner** (In Progress)
-- 📜 **JavaScript Algorithms & Data Structures**
-- 🎯 **Responsive Web Design** Certification
+### **Technical Certifications**
+- **Full Stack Development** Certification
+- **AWS Cloud Practitioner** (In Progress)
+- **JavaScript Algorithms & Data Structures**
+- **Responsive Web Design** Certification
 
 </td>
 <td width="50%">
 
-### 🎤 **Speaking & Community**
-- 🎙️ **Tech Conference Speaker** 
-- 👥 **Community Workshop Facilitator**
-- 📚 **Mentored 20+ Junior Developers**
-- 🌟 **Open Source Contributor**
+### **Professional Experience**
+- **Tech Conference Speaker** 
+- **Community Workshop Facilitator**
+- **Mentored 20+ Junior Developers**
+- **Open Source Contributor**
 
 </td>
 </tr>
@@ -188,30 +188,30 @@
 
 ---
 
-## 💡 What I Bring to Your Team
+## Value Proposition
 
 <div align="center">
 
-| 🎯 **Problem Solver** | 🚀 **Fast Learner** | 🤝 **Team Player** | 📈 **Results-Driven** |
+| **Problem Solver** | **Fast Learner** | **Team Player** | **Results-Driven** |
 |:---:|:---:|:---:|:---:|
 | I identify bottlenecks and create efficient solutions | Quick to adapt to new technologies and frameworks | Excellent communication and collaboration skills | Focus on delivering measurable business value |
 
 </div>
 
-### 🔥 **Why Choose Me?**
-- **🎯 Full Stack Expertise**: End-to-end development from concept to deployment
-- **⚡ Performance Focus**: Optimized applications with superior user experience
-- **🔒 Security Conscious**: Implementing best practices for secure applications
-- **📱 Mobile-First**: Responsive designs that work seamlessly across all devices
-- **☁️ Cloud Ready**: Experience with modern deployment and scaling strategies
-- **🎤 Communication**: Ability to explain complex technical concepts clearly
+### **Why Choose Me for Your Next Project**
+- **Full Stack Expertise**: End-to-end development from concept to deployment
+- **Performance Focus**: Optimized applications with superior user experience
+- **Security Conscious**: Implementing best practices for secure applications
+- **Mobile-First Approach**: Responsive designs that work seamlessly across all devices
+- **Cloud Ready**: Experience with modern deployment and scaling strategies
+- **Clear Communication**: Ability to explain complex technical concepts to stakeholders
 
 ---
 
-## 🌱 Current Learning Journey
+## Current Learning & Development
 
 ```javascript
-const currentLearning = {
+const currentFocus = {
   exploring: ["Next.js 14", "AWS Lambda", "Docker Containers", "GraphQL"],
   improving: ["System Design", "Microservices", "CI/CD Pipelines"],
   planning: ["React Native", "Kubernetes", "Machine Learning Integration"],
@@ -221,34 +221,24 @@ const currentLearning = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/NIHALMNK/NIHALMNK/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
----
-
-## 💼 Services I Offer
+## Services Offered
 
 <table>
 <tr>
 <td width="33%">
 
-### 🔧 **Development Services**
+### **Development Services**
 - Custom Web Application Development
 - E-Commerce Platform Creation
 - API Development & Integration
 - Database Design & Optimization
 - Performance Optimization
-- Bug Fixes & Code Reviews
+- Code Reviews & Refactoring
 
 </td>
 <td width="33%">
 
-### 🎨 **Design & UX**
+### **Design & User Experience**
 - Responsive Web Design
 - UI/UX Consultation
 - Figma to Code Conversion
@@ -259,7 +249,7 @@ const currentLearning = {
 </td>
 <td width="33%">
 
-### ☁️ **Deployment & Maintenance**
+### **Deployment & Maintenance**
 - Cloud Deployment (AWS/Vercel)
 - CI/CD Pipeline Setup
 - Performance Monitoring
@@ -273,34 +263,31 @@ const currentLearning = {
 
 ---
 
-## 🎯 Ready to Collaborate?
+## Professional Availability
 
 <div align="center">
 
-### 💼 **Open for Opportunities**
-🔹 **Full-time Positions** | 🔹 **Freelance Projects** | 🔹 **Technical Consultations** | 🔹 **Speaking Engagements**
+### **Open for Opportunities**
+**Full-time Positions** | **Freelance Projects** | **Technical Consultations** | **Speaking Engagements**
 
 </div>
 
 <div align="center">
 
-### 📫 **Let's Connect & Build Something Amazing**
+### **Let's Connect and Build Something Exceptional**
 
 <p align="center">
   <a href="mailto:mohammednihal.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/mohammed-nihal-k/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/NIHALMNK">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white&logoWidth=20" alt="Portfolio"/>
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=20" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -310,16 +297,10 @@ const currentLearning = {
 
 <div align="center">
 
-### ⭐ **"Code is poetry written in logic. Every line should tell a story, solve a problem, and inspire innovation."**
+### **"Code is poetry written in logic. Every line should tell a story, solve a problem, and inspire innovation."**
 
-**🤝 Available for challenging projects that push the boundaries of web development**
+**Available for challenging projects that push the boundaries of web development**
 
-*Let's transform your vision into digital reality!*
+*Ready to transform your vision into digital reality*
 
-</div>
-
-<div align="center">
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling)
-  
 </div>
